@@ -5,3 +5,44 @@ The first Bonsai Developers Conference was hosted at the [Sainsbury Wellcome Cen
 Follow the links to find information about the conference [sessions](sessions/README.md), including links to recordings and talk slides, and [participants](participants/README.md).
 
 
+## Sessions
+
+|     | Monday | Tuesday | Wednesday | Thursday | Friday |
+| --- | ------ | ------- | --------- | -------- | ------ |
+| 9am - 12pm | [Present and Future of Bonsai](presentAndFutureOfBonsai) | [Inmersive Environments](inmersiveEnvironments) | [Package Development](packageDevelopment) | [Hardware](hardware) | [Quantifying Animal Behavior](quantifyingAnimalBehavior) |
+| 12pm - 1pm | Lunch | Lunch | Lunch | Lunch | Lunch |
+| 1pm - 4pm | [Project Showcase](projectsShowcase) | [Machine Learning](machineLearning/README.md) | [Task Control](taskControl) | [Reproducible Research Practices](reproducibleResearchPractices) | [Roundtable](roundTable) |
+| 4pm - 5pm | Tea | Tea | Tea | Tea | Tea |
+
+## Participants
+
+| Name | Institution |
+| ---- | ----------- |
+| Ainiah Masood | UCL |
+| Aman Saleem | UCL |
+| Andre Maia Chagas | University of Sussex |
+| Antonella Torrisi | Queen Mary University of London |
+| Bruno Cruz | Allen Institute |
+| Brandon Parks | Open Ephys |
+| David Maas | NeuroGEARS Ltd |
+| Ede Rancz | INMED |
+| Gerion Nabbefeld | UCL |
+| Goncalo Lopes | NeuroGEARS Ltd |
+| Hugo Marques | Champalimaud Foundation |
+| Jacob White | MIT |
+| Jakob Voigts | HHMI Janelia Research Campus |
+| Joaquin Rapela | UCL |
+| Joao Pedro Frazao | NeuroGEARS Ltd |
+| Jork Marco de Kok | UCL |
+| José Grilo | Champalimaud Foundation |
+| Josh Siegle | Allen Institute |
+| Jue Chen | Queen Mary University of London |
+| Marco Colnaghi | Champalimaud Foundation |
+| Michael Forsthofer | University of Sussex |
+| Michael Krumin | UCL |
+| Nicholas Guilbeault | UCL |
+| Philip Coen | UCL |
+| Qichen Cao | UCL |
+| Romain Ligneul | INSERM |
+| Shawn Tan | NeuroGEARS Ltd |
+
