@@ -15,8 +15,6 @@ Click on sessions links for further information.
 
 ## Participants
 
-Click on participants links for further information.
-
 | Name | Institution |
 | ---- | ----------- |
 | Ainiah Masood | UCL |
@@ -32,7 +30,7 @@ Click on participants links for further information.
 | Hugo Marques | Champalimaud Foundation |
 | Jacob White | MIT |
 | Jakob Voigts | HHMI Janelia Research Campus |
-| [Joaquín Rapela](participants/jRapela) | [UCL](https://www.ucl.ac.uk/), [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) |
+| [Joaquín Rapela](participants/jRapela) | [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/), [UCL](https://www.ucl.ac.uk/) |
 | Joao Pedro Frazao | NeuroGEARS Ltd |
 | Jork Marco de Kok | UCL |
 | José Grilo | Champalimaud Foundation |
