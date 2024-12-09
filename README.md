@@ -7,14 +7,18 @@ Follow the links to find information about the conference [sessions](sessions/RE
 
 ## Sessions
 
+Click on sessions links for further information.
+
 |     | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | ------ | ------- | --------- | -------- | ------ |
 | 9am - 12pm | [Present and Future of Bonsai](presentAndFutureOfBonsai) | [Inmersive Environments](inmersiveEnvironments) | [Package Development](packageDevelopment) | [Hardware](hardware) | [Quantifying Animal Behavior](quantifyingAnimalBehavior) |
 | 12pm - 1pm | Lunch | Lunch | Lunch | Lunch | Lunch |
-| 1pm - 4pm | [Project Showcase](projectsShowcase) | [Machine Learning](machineLearning/README.md) | [Task Control](taskControl) | [Reproducible Research Practices](reproducibleResearchPractices) | [Roundtable](roundTable) |
+| 1pm - 4pm | [Project Showcase](sessions/projectsShowcase) | [Machine Learning](sessions/machineLearning/README.md) | [Task Control](sessions/taskControl) | [Reproducible Research Practices](sessions/reproducibleResearchPractices) | [Roundtable](sessions/roundTable) |
 | 4pm - 5pm | Tea | Tea | Tea | Tea | Tea |
 
 ## Participants
+
+Click on participants links for further information.
 
 | Name | Institution |
 | ---- | ----------- |
