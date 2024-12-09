@@ -35,7 +35,7 @@ Click on participants links for further information.
 | Hugo Marques | Champalimaud Foundation |
 | Jacob White | MIT |
 | Jakob Voigts | HHMI Janelia Research Campus |
-| Joaquin Rapela | UCL |
+| [Joaquin Rapela](participants/jRapela) | UCL |
 | Joao Pedro Frazao | NeuroGEARS Ltd |
 | Jork Marco de Kok | UCL |
 | José Grilo | Champalimaud Foundation |
