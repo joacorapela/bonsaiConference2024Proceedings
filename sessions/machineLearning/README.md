@@ -2,7 +2,7 @@
 
 | Day | Time | Moderators |
 | --- | ---- | ---------- |
-| Tuesday December 3 | 2pm -- 4pm | [Joaquin Rapela](https://www.gatsby.ucl.ac.uk/~rapela/) [Nicholas Guilbeault][https://github.com/ncguilbeault) |
+| Tuesday December 3 | 2pm -- 4pm | [Joaquin Rapela](https://www.gatsby.ucl.ac.uk/~rapela/) [Nicholas Guilbeault](https://github.com/ncguilbeault) |
 
 ## Abstract
 
@@ -22,5 +22,6 @@ learning in Bonsai.
 
 [Recording](https://ucl.zoom.us/rec/share/MWxQHOg_hFngvaNb_gt0kbyHWxT_wAaU1LZWToTsvLlnwksHu2Vq_CsAPSBxYQEA.JTzLG_cHFyyvg9Dw), password: t18N8=H^
 
-[Introduction and Linear Regression slides](https://neurogears.sharepoint.com/:b:/r/sites/BonsaiFoundation/Shared%20Documents/Conference%202024/Slides/bonsaiML.pdf?csf=1&web=1&e=r7Y1uq)
-[Python Scripting](https://neurogears.sharepoint.com/:b:/r/sites/BonsaiFoundation/Shared%20Documents/Conference%202024/Slides/Bonsai%20-%20Python%20Scripting%20Slides.pdf?csf=1&web=1&e=HdMUOb)
+Slides: [Introduction and Linear Regression](https://neurogears.sharepoint.com/:b:/r/sites/BonsaiFoundation/Shared%20Documents/Conference%202024/Slides/bonsaiML.pdf?csf=1&web=1&e=r7Y1uq)
+
+Slides: [Python Scripting](https://neurogears.sharepoint.com/:b:/r/sites/BonsaiFoundation/Shared%20Documents/Conference%202024/Slides/Bonsai%20-%20Python%20Scripting%20Slides.pdf?csf=1&web=1&e=HdMUOb)
