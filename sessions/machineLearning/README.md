@@ -32,9 +32,15 @@ Joaquin started by describing a Bonsai workflow for [online Bayesian linear regr
 
 </figure>
 
-Oline Bayesian linear regression allows to process potentially infinite datastreams. However, it requires that the statistics of the data does not change with time. To perform linear regression on non-stationary datastreams Joaquin presented a [Bonsai workflow using the recursive least squares algorithm](https://github.com/joacorapela/bonsai-rlsSimpleLinearRegression) and showed how this algorithm was robust to dynamic changes in the data statistics.
+Online Bayesian linear regression allows to process potentially infinite datastreams. However, it requires that the statistics of the data does not change with time. To perform linear regression on non-stationary datastreams Joaquin presented a [Bonsai workflow using the recursive least squares algorithm](https://github.com/joacorapela/bonsai-rlsSimpleLinearRegression) and showed how this algorithm was robust to dynamic changes in the data statistics.
 
-Nick then discussed the Python Scripting Bonsai package ...
+A main goal for the Bonsai.ML package is to enable machine learning developers to develop in Bonsai. To this end, Nick presented the Bonsai - Python scripting package which integrates the standard CPython engine into Bonsai. Nick discussed the history of the package, the current state of the package and provided some examples for how to write simple Python programs in Bonsai. He also focused on discussing the current limitations of the package, which include the seperate installation steps, explicit thread management of the GIL, and converting data types between Python and .NET.
+
+Following this, Nick discussed work towards integrating several Python-based packages into Bonsai for real-time analysis. The first package includes the [lds_python package](https://github.com/joacorapela/lds_python) which implements the Kalman Filter (KF) for online estimation of movement kinematics. The next package was the [ssm package](https://github.com/lindermanlab/ssm) for performing online estimation of discrete latent states using Hidden Markov Models (HMMs). He showcased a demo that used both of these packages in tandem on a freely behaving mouse video. The Kalman Filter was optimized online to infer the mouse's true velocity and acceleration. The model was able to forecast the mouse's kinematics into the future. The mouses velocity and acceleration were used to fit a HMM to infer the behavioral state of the animal and visualize it's trajectory through the behavioral state space.
+
+Another demo showcased by Nick was using a trained point process decoder to infer a mouse's latent position from neural recordings online. In this demo, the model is trained offline to encode the joint distribution of the animal's linear position and neural activity from hippocampal tetrode recordings. The model can then be used to run inference online to decode position on the linear track from neural spikes.
+
+Lastly, Nick demoed work integrating the TorchSharp C# package into Bonsai, showing how it can be used for linear regression, image classification and reinforcement learning.
 
 The Bonsai.ML session concluded with an open discussion covering topics related to how to disseminate the package, potential good use cases for the package and the benefits of integrating TorchSharp into Bonsai.
 
