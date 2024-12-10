@@ -39,7 +39,7 @@ Click on sessions links for further information.
 | Marco Colnaghi | Champalimaud Foundation |
 | Michael Forsthofer | University of Sussex |
 | Michael Krumin | UCL |
-| Nicholas Guilbeault | UCL |
+| [Nicholas Guilbeault](participants/ncguilbeault) | [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/), [UCL](https://www.ucl.ac.uk/) |
 | Philip Coen | UCL |
 | Qichen Cao | UCL |
 | Romain Ligneul | INSERM |
