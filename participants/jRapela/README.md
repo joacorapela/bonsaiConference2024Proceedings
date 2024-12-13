@@ -10,7 +10,7 @@ Moderator: [Bonsai.ML session](../../sessions/machineLearning)
 
 ## A few that I liked about the conference
 
-- Communities and collaborations are of great importance in Neuroscience research. In this conference I discovered a wonderful community of Bonsai developers and users, composed of scientists, engineers and software developers. The excitement I felt in the conference was unique. Most importantly, I met a very nice, cordial and friendly group of human beings.
+- Communities and collaborations are of great importance in research, specially in Neuroscience. In this conference I discovered a unique community of Bonsai developers and users, composed of scientists, engineers and software developers. The excitement I felt in the conference was thrilling. Most importantly, I met a very nice, cordial and friendly people.
 
 - Before the conference I already appreciated two revolutionary ideas behind Bonsai. First, the adoption of the reactive framework for Neuroscience experimental control. Second, creating a visual programming language for reactive programming languages. Graphical programming not only allows people with no programming experience to build sophisticated experiments, but also greatly augments the productivity of experienced programmers. Beyond this, the conference showed me a glimpse of the ambitious plans of the Bonsai Foundation for the future of Bonsai.
 
