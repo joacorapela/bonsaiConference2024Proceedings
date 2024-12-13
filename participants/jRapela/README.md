@@ -12,13 +12,11 @@ Moderator: [Bonsai.ML session](../../sessions/machineLearning)
 
 - Communities and collaborations are of great importance in Neuroscience research. In this conference I discovered a wonderful community of Bonsai developers and users, composed of scientists, engineers and software developers. The excitement I felt in the conference was unique. Most importantly, I met a very nice, cordial and friendly group of human beings.
 
-- Before the conference I already knew that Goncalo was a genius by recognising the potential of the reactive framework for Neuroscience experimental control, and by pioneering the use of graphical programming for reactive languages. Graphical programming not only allows people with no programming experience to build sophisticated experiments, but also greatly augments the productivity of experienced programmers. Beyond this, the conference showed me a glimpse of the generous plans of Goncalo and the Bonsai Foundation.
+- Before the conference I already appreciated two revolutionary ideas behind Bonsai. First, the adoption of the reactive framework for Neuroscience experimental control. Second, creating a visual programming language for reactive programming languages. Graphical programming not only allows people with no programming experience to build sophisticated experiments, but also greatly augments the productivity of experienced programmers. Beyond this, the conference showed me a glimpse of the ambitious plans of the Bonsai Foundation for the future of Bonsai.
 
-- Interactions in the conference helped me focus the Bonsai.ML development program, showed me how to better disseminate Bonsai.ML, and suggested me new promising application areas for it. I also built new collaborations with potential new users of Bonsai.ML. I understood that Bonsai.ML could be very helpful for the Bonsai community, and I am excited to contribute a little to it.
+- Interactions in the conference helped us focus the Bonsai.ML development program, showed us how to better disseminate Bonsai.ML, and suggested us new promising application areas for it. We also built new collaborations with potential new users of Bonsai.ML. We better appreciated how useful could be Bonsai.ML for the Bonsai community. We are excited by the possibility to contribute a little to this community.
 
 - I appreciated the wide variety of domains that Bonsai covers and better understood the magnitude of the Bonsai project.
-
-- I learned about new exciting application domains of Bonsai.
 
 ## A few suggestions to improve the next conference
 
