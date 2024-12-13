@@ -40,7 +40,7 @@ Following this, Nick discussed two new Bonsai.ML packages integrating functional
 
 Nick presented a demo using both of these packages in tandem on a freely behaving mouse video. The Kalman Filter was optimized online and used to infer the mouse's true velocity and acceleration. In addition, the model was able to forecast the mouse's kinematics into the future. The mouses velocity and acceleration were used to fit a HMM to infer the behavioral state of the animal and visualize it's trajectory through the behavioral state space.
 
-Another demo by Nick introduced the under development **Bonsai.ML.NeuralDecoding** package, which integrates functionality from the point process decoder implemented in the [replay_trajectory_classification](https://github.com/Eden-Kramer-Lab/replay_trajectory_classification) Python package, for online inference of mice position from hippocampal neural recordings. In this demo, the model was trained offline and then used to run inference online to decode the position a mouse on a linearized track.
+Another demo by Nick introduced the under development **Bonsai.ML.NeuralDecoding** package, which integrates functionality from the point process decoder implemented in the [replay_trajectory_classification](https://github.com/Eden-Kramer-Lab/replay_trajectory_classification) Python package, for online inference of mice position from hippocampal spike counts. In this demo, the model was trained offline and then used to run inference online to decode the position a mouse on a linearized track.
 
 Lastly, Nick demoed work integrating the TorchSharp C# package into Bonsai, showing how it can be used for linear regression, image classification and reinforcement learning.
 
