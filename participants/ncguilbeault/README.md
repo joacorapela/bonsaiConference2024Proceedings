@@ -8,7 +8,7 @@ Position: Research Software Engineer.
 
 ## What I Liked About the Conference
 
-* As a member of the community for several years, it was great to see the Bonsai community come together in person for the first time. It was nice to put faces to names finally, and connect with people who had helped me learn Bonsai over the years. It was also great to meet new people who used Bonsai and learn of their diverse interests.
+* As a member of the community for several years, and author of [BonZeb](https://github.com/ncguilbeault/BonZeb), it was great to see the Bonsai community come together in person for the first time. It was nice to put faces to names finally, and connect with people who had helped me learn Bonsai over the years. It was also great to meet new people who used Bonsai and learn of their diverse interests.
 
 * Everyone who attended was nice, respectful, and enthusiastic about Bonsai, which made the conference very enjoyable and a great networking opportunity. 
 
