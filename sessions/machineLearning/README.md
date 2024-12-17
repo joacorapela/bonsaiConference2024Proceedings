@@ -32,9 +32,22 @@ Joaquin started by describing a Bonsai workflow for [online Bayesian linear regr
 
 </figure>
 
-Oline Bayesian linear regression allows to process potentially infinite datastreams. However, it requires that the statistics of the data does not change with time. To perform linear regression on non-stationary datastreams Joaquin presented a [Bonsai workflow using the recursive least squares algorithm](https://github.com/joacorapela/bonsai-rlsSimpleLinearRegression) and showed how this algorithm was robust to dynamic changes in the data statistics.
+Online Bayesian linear regression allows to process potentially infinite datastreams. However, it requires that the statistics of the data does not change with time. To perform linear regression on non-stationary datastreams Joaquin presented a [Bonsai workflow using the recursive least squares algorithm](https://github.com/joacorapela/bonsai-rlsSimpleLinearRegression) and showed how this algorithm was robust to dynamic changes in the data statistics.
 
-Nick then discussed the Python Scripting Bonsai package ...
+A main goal for the Bonsai.ML package is to enable machine learning developers to develop in Bonsai. To this end, Nick presented the Bonsai - Python scripting package which integrates the standard CPython engine into Bonsai. Nick discussed the history of the package, the current state of the package and provided some examples for how to write simple Python programs in Bonsai. He also focused on discussing the current limitations of the package, which include the seperate installation steps, explicit thread management of the GIL, and converting data types between Python and .NET.
+
+Following this, Nick discussed two new Bonsai.ML packages integrating functionality from existing Python packages. The first new Bonsai.ML package, [Bonsai.ML.LinearDynamicalSystems](https://bonsai-rx.org/machinelearning/#bonsaimllineardynamicalsystems) integrates functionality from the [lds_python](https://github.com/joacorapela/lds_python) package for learning the parameters of a linear dynamical system model and for online inference, using the Kalman Filter algorithm. We have used this package to infer mouse kinematics (i.e., velocities and accelerations) from noisy measurements of position, while recovering missing observations (package **Bonsai.ML.LinearDynamicalSystems.Kinematics**), and for performing online Bayesian linear regression (package **Bonsai.ML.LinearDynamicalSystems.LinearRegression**). The second new Bonsai.ML package [Bonsai.ML.HiddenMarkovModels](https://bonsai-rx.org/machinelearning/#bonsaimlhiddenmarkovmodels) integrates functionality from the [ssm package](https://github.com/lindermanlab/ssm) for online inference of discrete latent states using Hidden Markov Models (HMMs).
+
+Nick presented a demo using both of these packages in tandem on a freely behaving mouse video. The Kalman Filter was optimized online and used to infer the mouse's true velocity and acceleration. In addition, the model was able to forecast the mouse's kinematics into the future. The mouses velocity and acceleration were used to fit a HMM to infer the behavioral state of the animal and visualize it's trajectory through the behavioral state space (Figure 2).
+
+<figure>
+  <image src="assets/lds_hmm_demo.png" width="800">
+  <figcaption>Fig.2 - Bonsai workflow using the kalman filter to infer and forecast mouse kinematics, and a HMM to infer the animal's hidden behavioral state.</figcaption>
+</figure>
+
+Another demo by Nick introduced the **Bonsai.ML.NeuralDecoding** package, which integrates functionality from the point process decoder implemented in the [replay_trajectory_classification](https://github.com/Eden-Kramer-Lab/replay_trajectory_classification) Python package, for online inference of mice position from hippocampal spike counts. In this demo, the model was trained offline and then used to run inference online to decode the position a mouse on a linearized track. This package is currently under development.
+
+Lastly, Nick demoed work integrating the TorchSharp C# package into Bonsai, showing how it can be used for linear regression, image classification and reinforcement learning.
 
 The Bonsai.ML session concluded with an open discussion covering topics related to how to disseminate the package, potential good use cases for the package and the benefits of integrating TorchSharp into Bonsai.
 
